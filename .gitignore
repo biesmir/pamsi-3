@@ -1,0 +1,10 @@
+
+data/test1/
+
+*.jpg
+
+data/train/cat\.130\{04\.\.99}
+
+data/verification/cat/cat\.130\{04\.\.99}
+
+data/verification/cat\.130\{04\.\.99}
