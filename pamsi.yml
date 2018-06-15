@@ -1,4 +1,4 @@
-name: pamsi
+name: pamsi-3
 channels:
 - anaconda
 - defaults
